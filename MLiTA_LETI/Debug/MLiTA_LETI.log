@@ -1,0 +1,63 @@
+﻿Сборка начата 03.01.2015 14:23:19.
+     1>Проект "C:\Users\Oleg\Google Диск\Projects\MLiTA_LETI\MLiTA_LETI\MLiTA_LETI.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\MLiTA_LETI.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v2.0\Microsoft.TeamFoundation.Client.dll" /FU"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v2.0\Microsoft.TeamFoundation.Common.dll" /FU"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v4.5\Microsoft.TeamFoundation.Controls.dll" /FU"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v2.0\Microsoft.TeamFoundation.VersionControl.Client.dll" /FU"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v2.0\Microsoft.TeamFoundation.VersionControl.Common.dll" /FU"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v4.5\Microsoft.TeamFoundation.VersionControl.Controls.Common.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.DirectoryServices.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MLiTA_LETI.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v2.0\Microsoft.TeamFoundation.Client.dll" /FU"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v2.0\Microsoft.TeamFoundation.Common.dll" /FU"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v4.5\Microsoft.TeamFoundation.Controls.dll" /FU"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v2.0\Microsoft.TeamFoundation.VersionControl.Client.dll" /FU"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v2.0\Microsoft.TeamFoundation.VersionControl.Common.dll" /FU"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v4.5\Microsoft.TeamFoundation.VersionControl.Controls.Common.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.DirectoryServices.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib AssemblyInfo.cpp Semantics.cpp Template.cpp
+         AssemblyInfo.cpp
+     1>AssemblyInfo.cpp(40): warning C4947: RequestMinimum: помечен как устаревший
+                 Сообщение: "Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information."
+         Semantics.cpp
+     1>Semantics.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(186): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(214): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(234): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(256): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(308): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(318): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(328): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(332): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 Semantics.cpp(328): пропуск определения "i"
+                 Semantics.cpp(299): используется определение "i"
+     1>Semantics.cpp(350): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(357): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(359): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(370): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(396): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(453): warning C4018: >=: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(455): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(465): warning C4018: >=: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(496): warning C4018: >=: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(528): warning C4018: >=: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(530): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(549): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(574): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 Semantics.cpp(569): пропуск определения "i"
+                 Semantics.cpp(544): используется определение "i"
+     1>Semantics.cpp(579): warning C4066: знаки после первого в константе из двухбайтовых знаков пропускаются
+     1>Semantics.cpp(647): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(830): warning C4066: знаки после первого в константе из двухбайтовых знаков пропускаются
+     1>Semantics.cpp(837): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Semantics.cpp(914): warning C4066: знаки после первого в константе из двухбайтовых знаков пропускаются
+     1>Semantics.cpp(926): warning C4066: знаки после первого в константе из двухбайтовых знаков пропускаются
+     1>Semantics.cpp(928): warning C4066: знаки после первого в константе из двухбайтовых знаков пропускаются
+         Template.cpp
+     1>c:\users\oleg\google диск\projects\mlita_leti\mlita_leti\Form1.h(994): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\oleg\google диск\projects\mlita_leti\mlita_leti\Form1.h(1015): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\oleg\google диск\projects\mlita_leti\mlita_leti\Form1.h(1036): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\oleg\google диск\projects\mlita_leti\mlita_leti\Form1.h(1057): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\oleg\google диск\projects\mlita_leti\mlita_leti\Form1.h(1092): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Oleg\Google Диск\Projects\MLiTA_LETI\Debug\MLiTA_LETI.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\MLiTA_LETI.Form1.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Oleg\Google Диск\Projects\MLiTA_LETI\Debug\MLiTA_LETI.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Semantics.obj
+         Debug\stdafx.obj
+         Debug\Template.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         MLiTA_LETI.vcxproj -> C:\Users\Oleg\Google Диск\Projects\MLiTA_LETI\Debug\MLiTA_LETI.exe
+     1>Сборка проекта "C:\Users\Oleg\Google Диск\Projects\MLiTA_LETI\MLiTA_LETI\MLiTA_LETI.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:08.64
